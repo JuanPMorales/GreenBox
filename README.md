@@ -1,6 +1,7 @@
 # GreenBox
-
-![logo](img/Logo.png)
+<p align="center">
+<img src="img/Logo.png" alt="Logo GreenBox" width="200">
+</p>
  
 ## Cultiva, Recicla y Transforma
 
