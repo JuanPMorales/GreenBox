@@ -1,31 +1,33 @@
 # GreenBox
 
+![logo](img/Logo.png)
+ 
 ## Cultiva, Recicla y Transforma
 
-#### Descripcion
+## Descripción
 
-GreenBox es una plataforma digital que busca promover hábitos sostenibles brindando información sobre reciclaje e informacion de cómo cultivar. 
+GreenBox es una plataforma digital que busca promover hábitos sostenibles brindando información sobre reciclaje y sobre cómo cultivar.
 
-Su propósito es ayudar a las personas a reducir su impacto ambiental y aprender a cultivar sus propias plantas. 
+Su propósito es ayudar a las personas a reducir su impacto ambiental y aprender a cultivar sus propias plantas.
 
-**La plataforma incluye actividades como:**
+### Actividades principales
 
 - Campañas de reciclaje y separación de residuos.
 - Tutoriales sobre compostaje y reutilización.
 - Consejos para ahorrar agua y energía.
 
 
-**Problemas que busca solucionar**
+### Problemas que busca solucionar
 
 1. Muchas personas no saben cómo empezar a cultivar plantas en sus hogares.
 2. Existe desconocimiento sobre la correcta separación de residuos.
 3. Se desperdician materiales que podrían reutilizarse o reciclarse.
-4. Las personas que quieren adoptar hábitos sostenibles, pero no saben cómo hacerlo.
+4. Las personas quieren adoptar hábitos sostenibles, pero no saben cómo hacerlo.
 
 
-**Nuestra propuesta de valor**
+### Nuestra propuesta de valor
 
-Ofrecer en un mismo lugar conocimientos que permitan a las personas transformar sus hogares en espacios más sostenibles mediante el recicljae y el cultivo de plantas
+Ofrecer en un mismo lugar conocimientos que permitan a las personas transformar sus hogares en espacios más sostenibles mediante el reciclaje y el cultivo de plantas.
 
 ***
 
@@ -55,9 +57,23 @@ La página estará dividida en cinco secciones:
 2. **Reciclaje:** información sobre separación de residuos.
 3. **Cultiva:** consejos para cultivar plantas en casa.
 4. **Vida sostenible:** recomendaciones de compostaje, reutilización y ahorro de recursos.
-5. **Footer:** información general y contacto.
+5. **Pie de página:** información general y contacto.
 
-### 4. Alcance del proyecto
+### 4. Vistas de diseño
+
+#### Vista desktop
+
+![Vista desktop de la landing page de GreenBox](img/GreenBox-Desktop.png)
+
+#### Vista tablet
+
+![Vista tablet de la landing page de GreenBox](img/GreenBox-Tablet.png)
+
+#### Vista mobile
+
+![Vista mobile de la landing page de GreenBox](img/GreenBox-Mobile.png)
+
+### 5. Alcance del proyecto
 
 - Desarrollo exclusivo con HTML5 y CSS3.
 - Diseño visual sencillo, moderno y responsive.
